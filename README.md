@@ -1,4 +1,4 @@
-<h1>NodeJsTask:Authentication</h1>
+<h1>NodeJsTask:Authentication-Backend</h1>
 <p>The backend of the project is responsible for handling the business logic and data processing required for the password reset functionality. It interacts with the database to retrieve user information, generates and sends OTP emails, and updates user records with new password information.</p>
 <ul>
   <li>
